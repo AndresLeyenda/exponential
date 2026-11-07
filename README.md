@@ -1,4 +1,3 @@
-
 # Andrés Osorio Leyenda
 
 **Founder | Math & CS Student**
@@ -33,8 +32,21 @@ I build in public on [X](https://x.com/deandre_leyend) and share my wins and los
   30k+ users and $1k MRR.  
   Paying users from top universities worldwide.
 
+  <p align="left">
+  <img src="./assets/mathwrite.jpg" width="400" alt="MathWrite">
+</p>
+
 - **MathWrite Notes – Solo Founder (September 2026)**  
   +5k downloads since launch and doing $2–3k/month in sales.
+  <p align="left">
+  <img src="./assets/mathwrite-notes.PNG" width="400" alt="MathWrite Notes">
+</p>
+
+- **MCPortal – 1st Place, GDG Santiago Hackathon (October 2026)**  
+  Built an MCP server generator that turns any website or internal tool into an MCP server using Playwright.
+  <p align="left">
+  <img src="./assets/mcportal.jpg" width="400" alt="MCPortal">
+</p>
 
 - Gave my first talk at Google Developer Groups Santiago.
 
